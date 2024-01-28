@@ -10,11 +10,12 @@
 //echo dirname($_SERVER['SCRIPT_NAME']);
 $directory = realpath(dirname(__FILE__));
 $document_root = realpath($_SERVER['DOCUMENT_ROOT']);
-$base_url = ( isset($_SERVER['HTTPS']) && $_SERVER['HTTPS']=='on' ? 'https' : 'http' ) . '://' .
+/** $base_url = ( isset($_SERVER['HTTPS']) && $_SERVER['HTTPS']=='on' ? 'https' : 'http' ) . '://' .
     $_SERVER['HTTP_HOST'];
 if(strpos($directory, $document_root)===0) {
     $base_url .= str_replace(DIRECTORY_SEPARATOR, '/', substr($directory, strlen($document_root)));
-}
+} **/
+$base_url = "https://new-hope-website.azurewebsites.net"
 
 defined("APP_URL") ? null : define("APP_URL", str_replace("/lib", "", $base_url));
 //Assets URL, location of your css, img, js, etc. files
