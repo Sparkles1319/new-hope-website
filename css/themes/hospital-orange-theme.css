@@ -1,0 +1,452 @@
+
+/*=======================================
+Template Design By WpFreeware Team.
+Author URI : http://www.wpfreeware.com/
+========================================*/
+.scrollToTop {
+  background-color: #da5525;
+  border:1px solid #da5525;
+}
+.scrollToTop:hover, .scrollToTop:focus,.sl-slider h2> strong,.sl-slider p> strong
+,.single-service>h3 a:hover,.single-service>h3 a:focus,
+.whyChoose-right .media-heading,.doctors-nav figcaption h2,
+.testimonial-cotent > p span,.testimonial-nav .slick-dots li.slick-active button::before,
+.blog-breadcrumbs-right .breadcrumb > li a:hover,.blog-breadcrumbs-right .breadcrumb > .active,
+.sidebar-widget p>a,.sidebar-widget>ul li>a:hover,.postnav-left:hover .navg-title,.postnav-right:hover .navg-title,.author-name:hover,
+.similar-post .media-body a:hover,.similar-post > h2,.nav-tabs > li.active > a, .nav-tabs > li.active > a:focus, .nav-tabs > li.active > a:hover,
+.button--itzel .button__icon,.button--itzel > span,#myModal .modal-title,
+.form-submit input:hover,.error-page-area h1,.error-page-area h3{
+  color: #1485CC;
+}
+
+.navbar-default {
+  background-color: #1485CC;
+  border-color: #1485CC;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:focus, .navbar-default .navbar-nav > .open > a:hover,
+.dropdown-menu > li > a:hover,.dropdown-menu > li > a:focus,.dropdown-menu > .active > a, .dropdown-menu > .active > a:focus, .dropdown-menu > .active > a:hover,
+.navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,.single-top-feature,
+
+.footer-middle,.social-share ul li > a,.custom-panel .panel-heading a,.nav-tabs > li > a,a.gallery-iteam .image-effect::before,.comments-title::after,
+.reply-btn,.author-tag  {
+  background-color: #1485CC;
+}
+/*Ij's styles'*/
+
+
+.readmore_area a::before,.single-top-feature .readmore_area a span{
+  color: #da5525;
+  border-color: #da5525;
+}
+.readmore_area a span,.single-top-feature .readmore_area a::before{
+  background-color: #da5525;
+  border-color: #da5525;
+}
+.service-icon-effect,.service-icon .service-icon-effect:hover,.blog-details blockquote::before,.blog-details blockquote::after{
+  color:#da5525;
+}
+.whyChoose-right .media:hover .media-icon {
+  color: #da5525;
+}
+figure.blog-figure .image-effect::before{
+  background-color: #da5525;}
+.testimonial-nav .slick-dots li.slick-active{
+  background-color: #da5525;
+}
+#scroll_doctor .slick-dots li.slick-active{
+  background-color: #da5525;
+}
+.blog-comments-box li > h2,.blog-comments-box li span,
+.blog-author > ul > li a:hover,.footer-service li > a:hover,.footer-service li > a span,.contact-info > p span,.footer-copyright>p>a{
+  color:#da5525;
+}
+/*end of ij's styles'*/
+
+
+.navbar-right .dropdown-menu,.navbar-nav .open .dropdown-menu,
+.wp-form-control:focus {
+  border: 1px solid #1485CC;
+}
+.navbar-right .dropdown-menu::before {
+  border-left: 1px solid #1485CC;
+  border-top: 1px solid #1485CC;
+}
+.nav-arrows span:hover {
+  border-color: #1485CC;
+  color: #1485CC;
+}
+.line, .line-red {
+  border-bottom: 2px solid #1485CC;
+  background: none repeat scroll 0 0 transparent;
+  height: 1px;
+  margin: 0 auto 45px;
+  padding: 5px;
+  position: relative;
+  width: 120px;
+}
+.line-red{
+  border-bottom: 2px solid #da5525;
+}
+.line::after, .line::before,.line-red::after,.line-red::before {
+  border: medium solid transparent;
+  content: " ";
+  height: 0;
+  left: 50%;
+  pointer-events: none;
+  position: absolute;
+  top: 100%;
+  width: 0;
+}
+.line::before, .line-red::before {
+  border-width: 9px;
+  margin-left: -6px;
+}
+.line::after {
+  border-top-color: #1485CC;
+  border-width: 8px;
+  margin-left: -8px;
+}
+.line-red::after {
+  border-top-color: #da5525;
+  border-width: 8px;
+  margin-left: -8px;
+}
+/*.line-red{*/
+/*border-bottom: 2px solid #da5525;*/
+/*}*/
+.service-icon .service-icon-effect {
+  box-shadow: 0 0 0 4px #1485CC;
+}
+.service-icon .service-icon-effect:after {
+  box-shadow: 3px 3px #1485CC;
+}
+.media-icon {
+  background-color: #1485CC;
+  border: 2px solid #1485CC;
+}
+.doctors-nav figure button:hover{
+  border-color: #da5525;
+  color:#da5525;
+}
+.single-doctor-social > a:hover{
+  /*color: #1485CC;*/
+  /*border-color: #1485CC;*/
+  border-color: #da5525;
+  color:#da5525;
+}
+.testimonial-img {
+  border: 3px solid #1485CC;
+}
+.testimonial-nav .slick-dots li,.blog-content .readmore_area a,#scroll_doctor .slick-dots li{
+  border: 2px solid #da5525;
+}
+.wp-form-control,
+.button--itzel::before,.error-page-area .readmore_area a {
+  border: 2px solid #1485CC;
+}
+.tag-nav a:hover,.tag-nav a:focus{
+  background-color: #da5525;
+  border-color: #da5525;
+}
+.footer-service li > a{
+  border-bottom: 1px solid #1485CC;
+}
+.footer-copyright>p>a:hover{
+  border-bottom: 1px solid #da5525;
+}
+.footer-privacy>p>a:hover{
+  border-bottom: 1px solid #da5525;
+}
+.footer-social a {
+  border: 1px solid #1485CC;
+  color: #1485CC;
+}
+.footer-bottom p a:hover,.footer-bottom p a:focus{
+  border-color: #1485CC;
+  color: #1485CC;
+}
+.blog-pagination .pagination > li > a:focus, .blog-pagination .pagination > li > a:hover, .blog-pagination .pagination > li > span:focus,
+.blog-pagination .pagination > li > span:hover {
+  background-color: #1485CC;
+  border-color: #1485CC;
+}
+.sidebar-widget h3::after {
+  background: none repeat scroll 0 0 #1485CC;
+}
+.archives li > a:hover {
+  background-color: #1485CC;
+  border-color: #1485CC;
+}
+.postnav-left a:hover, .postnav-right a:hover {
+  border: 1px solid #1485CC;
+  color: #1485CC;
+}
+.postnav-left:hover .prev-icon,.postnav-right:hover .next-icon{
+  color: #1485CC;
+  border-color: #1485CC;
+}
+.post-author > h3 {
+  border-bottom: 1px solid #1485CC;
+  color: #1485CC;
+}
+.author-morepost:hover,.author-morepost:focus {
+  border-bottom: 1px solid #1485CC;
+  color: #1485CC;
+}
+.nav-tabs > li > a:hover,.nav-tabs > li > a:focus{
+  background-color: #1485CC;
+  border-color: #1485CC;
+}
+.form-submit input {
+  background-color: #1485CC;
+  border: 1px solid #1485CC;
+}
+.pswp__caption__center {
+  color: #1485CC !important;
+}
+.pswp__button--arrow--left::before, .pswp__button--arrow--right::before {
+  background-color: #1485CC !important;
+}
+.comments-pagination li a:hover {
+  background-color:#1485CC;
+  border-color: #1485CC;
+}
+#respond input[type="text"]:focus,#respond input[type="email"]:focus,#respond input[type="url"]:focus {
+  border-color: #1485CC;
+}
+#respond textarea:focus{
+  border-color: #1485CC;
+}
+.blog-details .table-hover tbody tr:hover{
+  background-color: #da5525;
+  border-color: #da5525;
+}
+.blog-details>a:hover,
+.blog-details>a:focus,
+.blog-details > p>a:hover,
+.blog-details > p>a:focus{
+  color: #1485CC;
+  border-bottom: 1px solid #1485CC;
+}
+.testimonial-parg::before {
+  color: #1485CC;
+}
+.testimonial-parg:after{
+  color: #1485CC;
+}
+.top-slider .slick-prev:hover,
+.top-slider .slick-next:hover{
+  border-color: #1485CC;
+  color: #1485CC;
+}
+.slider-text h2>strong{
+  color: #1485CC;
+}
+.slider-text p>strong{
+  color: #1485CC;
+}
+
+
+/*My added styles*/
+
+section.starting-text
+{
+  background-color: #1485CC;
+  /*background: -webkit-linear-gradient(left top, #085A6C , #3E8B90);
+  background: -o-linear-gradient(bottom right, #085A6C , #3E8B90);
+  background: -moz-linear-gradient(bottom right, #085A6C , #3E8B90);
+  background: linear-gradient(to bottom right, #085A6C , #3E8B90); */
+  margin-top: -37px;
+}
+.team-button {
+  margin-top: -60px;
+}
+#starting
+{
+  background: url(../../images/doctors-img.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+@media (min-width:1100px){
+
+  .starting-wrapper {
+    height: 500px;
+  }
+}
+.starting-wrapper
+{
+  background-color: rgba(0,0,0,0.17);
+  padding: 208px 0px;
+  color: #fff;
+}
+.main-title {
+  background-color: #1485CC;
+  display: inline-block;
+  padding: 23px 70px;
+  float: right;
+}
+.sub-title
+{
+  padding: 30px;
+  float: right;
+  background-color: #1485CC;
+}
+.doctor-list
+{
+  padding-top: 100px;
+}
+.doctor-meta
+{
+  margin: 100px 0px 70px 0px;
+  padding: 120px 35px 36px;
+  border: 1px solid #1485CC;
+  background-color: #1485CC;
+  position: relative;
+  color: #FFFFFF;
+}
+.doctor-meta .doctor-img
+{
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  top: -100px;
+  left: 50%;
+  margin-left: -95px;
+  border: 2px solid #c6c6c6;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+  overflow: hidden;
+}
+.doctor-meta .doctor-img img
+{
+  position: relative;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+}
+.doctor-info .doctor-name
+{
+  margin-top: 10px;
+  letter-spacing: 1px;
+  font-size: 16px;
+  text-transform: uppercase;
+  margin-bottom: 5px;
+  display: block;
+  font-weight: 500;
+  font-family: 'Roboto', sans-serif;
+}
+.doctor-info .position
+{
+  font-size: 12px;
+  text-transform: uppercase;
+  display: block;
+  letter-spacing: 1px;
+}
+.doctor-info .doctor-des
+{
+  margin-top: 20px;
+  margin-bottom: 10px;
+  display: block;
+  color: #FFFFFF;
+}
+.doctor-info .doctor-social .online-contact a
+{
+  width: 32px;
+  height: 32px;
+  border-radius: 16px;
+  background: #da5525;
+  float: left;
+  color: white;
+  padding-top: 6px;
+  padding-left: 2px;
+  text-align: center;
+}
+#job
+{
+  background: url(../../images/ridgeviewmedicalclinic.jpg) 50% 0 no-repeat fixed;
+  width: 100%;
+  background-size: cover;
+  margin-top: 20px;
+  color: white;
+}
+.job-wrapper
+{
+  background-color: rgba(0, 0, 0, 0.87);
+  padding: 100px 0;
+}
+#job h2
+{
+  padding-top: 11px;
+}
+#job h4
+{
+  line-height: 30px;
+  padding: 20px 0px 10px 0px;
+}
+.block-image
+{
+  position: relative;
+  z-index: 99;
+  overflow: hidden;
+}
+#job .form-control {
+  background-color: rgba(0, 0, 0, 0.45);
+  border-color: #fff;
+  color: #46a1b4;
+  height: 38px;
+}
+#job .input-group-addon
+{
+  background-color: transparent;
+  border-color: #fff;
+  color: #fff;
+}
+#job .input-group
+{
+  padding: 20px 0px;
+}
+#job .send
+{
+  margin-top: 30px;
+  background-color: transparent;
+  border-color: #fff;
+}
+.contact
+{
+  padding-top: 10px;
+  padding-left: 0px;
+}
+.readmore_services{
+  color:#da5525;
+}
+
+.all_services_font_color{
+  color: #da5525;
+}
+.about_us_contents{
+  font-family: 'Habibi','serif';
+  font-size: 20px;
+  height: 33.333%;
+  background-color: #1485CC;
+  color: #FFFFFF;
+}
+div#aboutUsTabbable ul li.active a {
+
+  background-color: #da5525 !important;
+
+}
+div#aboutUsPanel div.panel-heading{
+  background-color: #1485CC;border-color: #1485CC;
+}
+ul#servicesList li a:hover{
+ color: #da5525 !important;
+}
+/*For services*/
+
+
+/*=======================================
+Template Design By WpFreeware Team.
+Author URI : http://www.wpfreeware.com/
+========================================*/
